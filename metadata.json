@@ -1,0 +1,10 @@
+{
+  "name": "Arifler Exam",
+  "description": "Mobil uyumlu optik okuma, yapay zeka destekli sınav değerlendirme, öğrenciye özel optik form PDF baskı ve öğretmen analiz paneli.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
